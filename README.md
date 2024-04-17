@@ -29,7 +29,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋 I'm Sandeep Adhikari</h1>
 
 ###
 
